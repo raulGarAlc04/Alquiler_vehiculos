@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Alquiler_vehiculos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#AFB42B</item>
+        <item name="colorSecondary">#CDDC39</item>
+        <item name="colorAccent">#536DFE</item>
+    </style>
+
+    <style name="Theme.Alquiler_vehiculos" parent="Base.Theme.Alquiler_vehiculos" />
+</resources>
